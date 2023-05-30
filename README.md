@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 -->
 
 - :computer: I'm a freelance Frontend Developer
-- 🌱 I’m currently learning JavaScript and React
 ---
 
 ### Languages and Tools:
