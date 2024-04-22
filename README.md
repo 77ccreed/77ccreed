@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - :computer: I'm a freelance Frontend Developer
+- :books: I’m currently learning TypeScript and Next.js
 ---
 
 ### Languages and Tools:
